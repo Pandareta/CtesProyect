@@ -1,0 +1,11 @@
+# Entorno Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Secretos y sistema
+.env
+.DS_Store
+
+# data/raw/*.csv se mantiene trackeado a propósito:
+# Streamlit Cloud lee el dataset directamente desde el repositorio.
