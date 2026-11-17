@@ -177,8 +177,6 @@ concentra más tickets de soporte. El soporte, no el precio, es el principal *dr
 .\.venv\Scripts\streamlit.exe run app.py
 ```
 
-Abre <http://localhost:8501>.
-
 ### Comando exacto para levantar Streamlit en local
 
 Desde `C:\Users\Admin\Documents\BUSQUEDA LABORAL\ChurnPy`:
